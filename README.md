@@ -31,7 +31,7 @@ names: ['MC1', 'MC2', 'MC3', 'MC4', 'MC5', 'Radius', 'Ulna', 'capitate', 'hamate
 *График обучения модели*
 ![График обучения](images/progress.png)
 
-Ссылка на ноутбук с обучением модели: <Wrist_joint_segmentation_nnU_Net.ipynb>
+Ноутбук с обучением модели: [Wrist_joint_segmentation_nnU_Net.ipynb](Wrist_joint_segmentation_nnU_Net.ipynb)
 
 ### Шаг 4.Тестирование модели
 1. Для тестирования модели написал функцию для подготовки тестовых данных под формат nn-Net.
